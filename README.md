@@ -123,3 +123,5 @@
 40. } else { - виконується, якщо введений користувачем тип пароля не знаходиться в діапазоні від 1 до 4.
 41. std::cout << "Виберіть наявний тип пароля від 1 до 4" << std::endl; - виведення на екран повідомлення про помилку.
 42. continue; - перехід до наступної ітерації циклу.
+## Можливе продовження генерації пароля
+![9](https://github.com/TeslenkoPavlo/TeslenkoPavlo-Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/9.png)
