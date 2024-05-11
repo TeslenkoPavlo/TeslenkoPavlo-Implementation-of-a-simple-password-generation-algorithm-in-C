@@ -59,3 +59,4 @@
 10. catch (const std::invalid_argument&) { b = false; std::cout << "Виберіть наявну програму від 1 до 3" << std::endl; continue; } - якщо під час виконання блоку try виникне помилка std::invalid_argument (тобто, якщо в змінній S зберігається не число), виконується блок catch. В цьому блоці змінній b присвоюється значення false, виводиться повідомлення про помилку та виконується команда continue, яка переходить до наступної ітерації циклу.
 # Згенерування нового пароля
 ## Вибір типа пароля
+![7](https://github.com/TeslenkoPavlo/TeslenkoPavlo-Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/7.png)
