@@ -41,3 +41,4 @@
 17.	Clear(); - виклик функції Clear, яка очищає консоль.
 # Опції програми
 ![4](https://github.com/TeslenkoPavlo/TeslenkoPavlo-Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/4.png)
+SetConsoleCP(1251); та SetConsoleOutputCP(1251); - ці рядки встановлюють кодування консолі Windows CP1251 (кирилиця).
