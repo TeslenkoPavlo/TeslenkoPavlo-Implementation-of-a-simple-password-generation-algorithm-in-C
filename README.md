@@ -20,3 +20,5 @@
 13. Якщо паролі не співпадають, виводиться повідомлення про помилку та згенерований пароль.
 14. C = ' '; - скидає змінну C, щоб підготуватися до наступної ітерації циклу.
 15. Після успішного введення пароля виводиться повідомлення "Пароль введений вірно!"
+## Функція savePassword
+![3](https://github.com/TeslenkoPavlo/TeslenkoPavlo-Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/3.png)
