@@ -42,3 +42,6 @@
 # Головна функція
 ![4](https://github.com/TeslenkoPavlo/TeslenkoPavlo-Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/4.png)
 1. SetConsoleCP(1251); та SetConsoleOutputCP(1251); - ці рядки встановлюють кодування консолі Windows CP1251 (кирилиця).
+![5](https://github.com/TeslenkoPavlo/TeslenkoPavlo-Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/5.png)
+2.	int program = 0; - змінна, яка зберігає номер обраної програми.
+3.	while (program != 3) {...} - головний цикл програми, який працює, поки користувач не вибере опцію "Вийти" (номер 3).
