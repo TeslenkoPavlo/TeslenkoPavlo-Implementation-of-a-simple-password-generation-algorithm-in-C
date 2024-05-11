@@ -177,3 +177,4 @@
 23. outFile << password << std::endl; - записує кожен пароль в файл passwords.txt.
 24. outFile.close(); - закриває файл passwords.txt.
 # Повний вихід з програми та перевірка на коректність вибору програми
+![12](https://github.com/TeslenkoPavlo/TeslenkoPavlo-Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/12.png)
