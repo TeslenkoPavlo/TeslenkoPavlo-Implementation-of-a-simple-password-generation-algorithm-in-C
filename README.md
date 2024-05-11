@@ -137,3 +137,4 @@
 10. break; - завершує виконання програми, якщо користувач ввів "n".
 # Каталог паролів
 ## Вивід каталога паролів
+![10](https://github.com/TeslenkoPavlo/TeslenkoPavlo-Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/10.png)
