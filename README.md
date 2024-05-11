@@ -80,3 +80,4 @@
 18. std::cout << "Виберіть наявний тип пароля від 1 до 4" << std::endl; - виводить повідомлення про помилку.
 19. continue; - переходить до наступної ітерації циклу while, щоб дати користувачеві ще одну спробу.
 ## Генерація пароля
+![8](https://github.com/TeslenkoPavlo/TeslenkoPavlo-Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/8.png)
