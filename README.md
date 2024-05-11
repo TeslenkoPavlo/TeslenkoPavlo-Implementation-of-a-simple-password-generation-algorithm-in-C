@@ -39,6 +39,6 @@
 15.	else if (C != 'n') {...} - блок коду, який виконується, якщо користувач ввів некоректну відповідь (не y та не n).
 16.	std::cout << "Некоректний ввід. Будь ласка, введіть 'y' або 'n'." << std::endl; - виведення повідомлення про некоректний ввід.
 17.	Clear(); - виклик функції Clear, яка очищає консоль.
-# Опції програми
+# Головна функція
 ![4](https://github.com/TeslenkoPavlo/TeslenkoPavlo-Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/4.png)
 1. SetConsoleCP(1251); та SetConsoleOutputCP(1251); - ці рядки встановлюють кодування консолі Windows CP1251 (кирилиця).
