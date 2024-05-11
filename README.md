@@ -176,3 +176,4 @@
 22. for (const string& password : password) { ... } - цикл for, який проходить по всіх паролях в файлі паролів.
 23. outFile << password << std::endl; - записує кожен пароль в файл passwords.txt.
 24. outFile.close(); - закриває файл passwords.txt.
+# Можливість повного виходу з програми
