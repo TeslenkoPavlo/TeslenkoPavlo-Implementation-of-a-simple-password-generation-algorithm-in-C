@@ -46,3 +46,4 @@
 2.	int program = 0; - змінна, яка зберігає номер обраної програми.
 3.	while (program != 3) {...} - головний цикл програми, який працює, поки користувач не вибере опцію "Вийти" (номер 3).
 # Опції програми
+![6](https://github.com/TeslenkoPavlo/TeslenkoPavlo-Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/6.png)
