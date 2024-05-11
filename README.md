@@ -151,3 +151,4 @@
 11. for (size_t i = 0; i < password.size(); i++) { ... } - цикл for, який ітерує по вектору password та виводить кожен пароль на консоль. Змінна i - це індекс циклу та змінюється від 0 до password.size() - 1.
 12. std::cout << i + 1 << ". " << password[i] << std::endl; - виводить поточний пароль на консоль. Вираз i + 1 використовується для нумерації паролів, починаючи з 1 замість 0. Вираз password[i] використовується для доступу до поточного пароля у векторі.
 ## Можливість видалення пароля з каталога
+![11](https://github.com/TeslenkoPavlo/TeslenkoPavlo-Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/11.png)
