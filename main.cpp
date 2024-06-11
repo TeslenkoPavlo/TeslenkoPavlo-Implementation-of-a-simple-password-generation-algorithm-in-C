@@ -335,7 +335,7 @@ int main() {
                         continue;
                     }
 
-                    int index;
+                    int nomer;
                     Print("");
                     Print("-----------Каталог паролів----------");
                     for (size_t i = 0; i < catalog.size(); i++) {
@@ -345,9 +345,9 @@ int main() {
                     do {
                         Print("");
                         Print("Введіть порядковий номер пароля для перевірки: ", false);
-                        std::cin >> index;
+                        std::cin >> nomer;
 
-                        if (std::cin.fail() || (index < 1 || index > catalog.size())) {
+                        if (std::cin.fail() || (nomer < 1 || nomer > catalog.size())) {
                             if (std::cin.fail()) {
                                 std::cin.clear();
                                 Clear();
@@ -358,9 +358,9 @@ int main() {
                                 Print("Оберіть існуючий індекс пароля.");
                             }
                         }
-                    } while (std::cin.fail() || (index < 1 || index > catalog.size()));
+                    } while (std::cin.fail() || (nomer < 1 || nomer > catalog.size()));
 
-                    password = catalog[index - 1];
+                    password = catalog[nomer - 1];
                 }
                 else if (tolower(S[0]) != 'n') {
                     Print("Будь ласка, введіть 'y' або 'n'.");
